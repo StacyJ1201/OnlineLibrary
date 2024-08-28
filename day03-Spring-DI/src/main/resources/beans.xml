@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <bean name="e3" class="com.synergisticit.domain.Employee">
+    	<property name="empId" value="3"></property>
+        <property name="name" value="Christopher" />
+        <property name="designation" value="Programmer" />
+        <property name="salary" value="15000" />
+        <property name="address" ref="address" />
+    </bean>
+    
+      <bean name="e4" class="com.synergisticit.domain.Employee">
+    	<constructor-arg name="empId" value="4"></constructor-arg>
+        <constructor-arg name="name" value="Dinesh" />
+        <constructor-arg name="designation" value="Instructor" />
+        <constructor-arg name="salary" value="11111" />
+        <constructor-arg name="address" ref="address2" />
+    </bean>
+    
+    <bean name="address" class= "com.synergisticit.domain.Address">
+    	 <property name="addressLine1" value="al1" />
+    	 <property name="addressLine2" value="al2" />
+    	 <property name="city" value="theCty" />
+    	 <property name="state" value="theState" />
+    	 <property name="country" value="theCountry" />
+    	  <property name="zipCode" value="123000"/>
+    </bean>
+    <bean name="address2" class= "com.synergisticit.domain.Address">
+    	 <property name="addressLine1" value="House No. 1" />
+    	 <property name="addressLine2" value="Road No. 1, The Heights" />
+    	 <property name="city" value="theCty" />
+    	 <property name="state" value="theState" />
+    	 <property name="country" value="theCountry" />
+    	  <property name="zipCode" value="123000"/>
+    </bean>
+    
+    <bean name="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+    	 <property name="url" value="jdbc:mysql://localhost:3306/springdb"/>
+    	 <property name="username" value="root"/>
+    	 <property name="password" value="admin"/>
+    </bean>
+    
+    <bean name="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+      <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+</beans>
