@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bad814a0-b536-49fe-808e-be7547999d82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/dao/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06-Spring-JdbcTemplate-AnnotationConfig/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11-06Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11-06Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/controller/MyController1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11-06Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/controller/MyController2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11-06Sep2024-SpringBoot-mvc/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12-09Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12-09Sep2024-SpringBoot-mvc/src/main/webapp/WEB-INF/jsp/EmployeeForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13-10Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/Service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13-10Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/Service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13-10Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13-10Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day15-12Sep2024-SpringBoot-mvc-jpaRepository-spring-form/src/main/java/com/synergisticit/validation/EmployeeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day15-12Sep2024-SpringBoot-mvc-jpaRepository-spring-form/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day17-16Sep2024-SpringBoot-asignment4-jdbcTemplate-spring-form-validation/src/main/java/com/synergisticit/controller/NewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day17-16Sep2024-SpringBoot-asignment4-jdbcTemplate-spring-form-validation/src/main/java/com/synergisticit/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day17-16Sep2024-SpringBoot-asignment4-jdbcTemplate-spring-form-validation/src/main/java/com/synergisticit/dao/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/target/classes/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/target/classes/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03-Spring-DI/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/domain/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/domain/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/resources/beans.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mIwIlw6cwo1Ah5OeXtJrc5diw3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.SpringBootApp.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/stacyjones/Downloads/SpringAugust2024/day20-19Sep2024-SpringBoot-mvc-jpaRepoitory-ModelAndView",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringBootApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="day20-19Sep2024-SpringBoot-mvc-jpaRepoitory-modelMap" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.synergisticit.SpringBootApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bad814a0-b536-49fe-808e-be7547999d82" name="Changes" comment="" />
+      <created>1726777322367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726777322367</updated>
+      <workItem from="1726777323538" duration="89000" />
+      <workItem from="1726783593788" duration="2065000" />
+      <workItem from="1726786004663" duration="364000" />
+      <workItem from="1726786462528" duration="3966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

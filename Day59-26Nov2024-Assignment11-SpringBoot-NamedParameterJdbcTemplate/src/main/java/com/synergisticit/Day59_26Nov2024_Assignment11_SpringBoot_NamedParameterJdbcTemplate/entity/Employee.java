@@ -1,0 +1,2 @@
+package com.synergisticit.Day59_26Nov2024_Assignment11_SpringBoot_NamedParameterJdbcTemplate.entity;public class Employee {
+}

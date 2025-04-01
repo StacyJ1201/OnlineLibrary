@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b1f73c0-7a4f-47fd-8820-49db50aa75b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/dao/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-Spring-JdbcTemplate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06-Spring-JdbcTemplate-AnnotationConfig/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11-06Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11-06Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/controller/MyController1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11-06Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/controller/MyController2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11-06Sep2024-SpringBoot-mvc/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12-09Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12-09Sep2024-SpringBoot-mvc/src/main/webapp/WEB-INF/jsp/EmployeeForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13-10Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/Service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13-10Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/Service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13-10Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day13-10Sep2024-SpringBoot-mvc/src/main/java/com/synergisticit/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day15-12Sep2024-SpringBoot-mvc-jpaRepository-spring-form/src/main/java/com/synergisticit/validation/EmployeeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day15-12Sep2024-SpringBoot-mvc-jpaRepository-spring-form/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day17-16Sep2024-SpringBoot-asignment4-jdbcTemplate-spring-form-validation/src/main/java/com/synergisticit/controller/NewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day17-16Sep2024-SpringBoot-asignment4-jdbcTemplate-spring-form-validation/src/main/java/com/synergisticit/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day17-16Sep2024-SpringBoot-asignment4-jdbcTemplate-spring-form-validation/src/main/java/com/synergisticit/dao/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19-18Sep2024-SpringBoot-mvc-jpaRepoitory-spring-form-validation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/target/classes/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-19Sep2024-SpringBoot-mvc-ModelAndView/target/classes/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/dao/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/dao/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/webapp/WEB-INF/jsp/userForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day21-20Sep2024-SpringBoot-mvc-ModelAndView-Lombok/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/SpringBootApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/dao/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/dao/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/domain/EmployeeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/domain/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/validation/EmployeeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/webapp/WEB-INF/jsp/userForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/webapp/WEB-INF/jsp/xForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/webapp/WEB-INF/message/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/test/java/com/synergisticit/day11_06Sep2024_SpringBoot_mvc/Day1106Sep2024SpringBootMvcApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/target/classes/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22-23Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/target/classes/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day23-24Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day23-24Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day23-24Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day23-24Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day23-24Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day23-24Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day24-25Sep2024-SpringBoot-mvc-ModelAndView-Lombok-UserEntity/src/main/java/com/synergisticit/controller/EmployeeController2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Repository/RoleRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Repository/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Service/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/java/com/synergisticit/day25_26Sep2024_SpringBoot_Assignment5/Service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/webapp/WEB-INF/jsp/myForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25-26Sep2024-SpringBoot-Assignment5/src/main/webapp/WEB-INF/jsp/roleForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day28-01Oct2024-SpringBoot-mvc-HibernateSession/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day29-02Oct2024-SpringBoot-mvc-HibernateSession/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day29-02Oct2024-SpringBoot-mvc-HibernateSession/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day29-02Oct2024-SpringBoot-mvc-HibernateSession/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day29-02Oct2024-SpringBoot-mvc-HibernateSession/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day29-02Oct2024-SpringBoot-mvc-HibernateSession/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day29-02Oct2024-SpringBoot-mvc-HibernateSession/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day29-02Oct2024-SpringBoot-mvc-NamedParameterJdbcTemplate/src/main/java/com/synergisticit/dao/EmployeeDaoImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day30-03Oct2024-SpringBoot-CommandLineRunner-CrudRepository/src/main/java/com/synergisticit/dao/EmployeeCrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/dao/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/dao/RoleDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/service/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/java/com/synex/Assignment6/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/webapp/WEB-INF/message/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/webapp/WEB-INF/roleForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31-04Oct2024-SpringBoot-Assignment6/src/main/webapp/WEB-INF/userForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03-Spring-DI/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/domain/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/java/com/synergisticit/domain/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03-Spring-DI/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03-Spring-DI/src/main/resources/beans.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2n87KP1pIpvF97J75qK7I4OcrYz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/stacyjones/Downloads/SpringAugust2024/day29-02Oct2024-SpringBoot-mvc-HibernateSession 2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringBootApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="day29-02Oct2024-SpringBoot-mvc-HibernateSession" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.synergisticit.SpringBootApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b1f73c0-7a4f-47fd-8820-49db50aa75b4" name="Changes" comment="" />
+      <created>1728342784548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728342784548</updated>
+      <workItem from="1728342785867" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
